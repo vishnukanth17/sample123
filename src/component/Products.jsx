@@ -73,6 +73,9 @@ function Product() {
                 <div className="row ">
                     <div className="col-12 mb-5">
                         <h1 className='display-6 fw-bold text-center'>Latest Products</h1>
+                        <h1 className='display-6 fw-bold text-center'>REcent Products</h1>
+                        
+
                         <hr></hr>
                     </div>
                 </div>
