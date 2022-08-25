@@ -16,7 +16,7 @@ function Home() {
                         
                     </div>
             </div>
-         
+         <Product />
         </div>
     )
 }
