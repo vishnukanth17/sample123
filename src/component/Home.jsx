@@ -5,11 +5,11 @@ function Home() {
     return (
         <div className='hero'>
             <div className="card text-bg-dark border-0">
-                <img src="https://tse3.mm.bing.net/th?id=OIP.yHIHioXyCxQII0IecznzTgHaEK&pid=Api&P=0" className="card-img" alt="Bakground" height ="550px    "/>
+                <img src="https://www.hdnicewallpapers.com/Walls/Big/Alia%20Bhatt/Alia_Bhatt_5K_Actress_Wallpapers.jpg" className="card-img" alt="Bakground" height ="550px    "/>
                     <div class="card-img-overlay d-flex flex-column justify-content-center">
                         <div className="container">
-                        <h5 className="card-title display-3 fw-bolder mb-0">NEW SEASON ARRIVALS</h5>
-                        <p className="card-text lead fs-2">
+                        <h5 className="card-title display-3 fs-1 fw-bold mb-0 ">NEW SEASON ARRIVALS</h5>
+                        <p className="card-text lead fs-3 mb-0">
                             CHECKOUT ALL THE TRENDS
                         </p>
                         </div>
